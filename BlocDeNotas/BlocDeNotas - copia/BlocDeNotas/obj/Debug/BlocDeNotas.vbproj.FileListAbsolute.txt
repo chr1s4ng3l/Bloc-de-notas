@@ -1,0 +1,8 @@
+C:\Users\Christopher\Documents\SharpDevelop Projects\BlocDeNotas\BlocDeNotas\bin\Debug\BlocDeNotas.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\BlocDeNotas\BlocDeNotas\bin\Debug\BlocDeNotas.pdb
+C:\Users\Christopher\Documents\SharpDevelop Projects\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.vbprojResolveAssemblyReference.cache
+C:\Users\Christopher\Documents\SharpDevelop Projects\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.MainForm.resources
+C:\Users\Christopher\Documents\SharpDevelop Projects\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.vbproj.GenerateResource.Cache
+C:\Users\Christopher\Documents\SharpDevelop Projects\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.exe
+C:\Users\Christopher\Documents\SharpDevelop Projects\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.pdb
+C:\Users\Christopher\Documents\SharpDevelop Projects\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.Form1.resources
